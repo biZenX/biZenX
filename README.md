@@ -1,1 +1,1 @@
-![Neofetch Stats](https://neofetch-profile.vercel.app/api?username=biZenX)
+![Terminal GIF](https://raw.githubusercontent.com/biZenX/gif-terminal/main/output.gif)
