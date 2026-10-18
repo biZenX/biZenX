@@ -1,1 +1,1 @@
-![Terminal GIF](./output.gif)
+![Terminal GIF](./outpuut.gif)
